@@ -1,3 +1,4 @@
 # lojavirtual
 
-Alterando informações no git local
+Alterando informações no git local;
+texto alterado via github.
